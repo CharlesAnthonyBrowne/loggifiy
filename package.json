@@ -1,6 +1,6 @@
 {
   "name": "loggifiy",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Adds in a random set of characters every console.log used so you don't have to",
   "main": "index.js",
   "scripts": {
