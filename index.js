@@ -1,4 +1,4 @@
-exports.logger = function() {
+exports.logifiy = function() {
 
   function logger() {
 
