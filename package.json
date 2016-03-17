@@ -1,0 +1,22 @@
+{
+  "name": "loggifiy",
+  "version": "1.0.0",
+  "description": "Adds in a random set of characters every console.log used so you don't have to",
+  "main": "index.js",
+  "scripts": {
+    "test": "whatTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesAnthonyBrowne/loggifiy.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "charles browne <charlesanthonyproctorbrowne@gmail.com> (http://charlesbrowne.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesAnthonyBrowne/loggifiy/issues"
+  },
+  "homepage": "https://github.com/CharlesAnthonyBrowne/loggifiy#readme"
+}
